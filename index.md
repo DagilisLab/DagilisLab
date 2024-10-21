@@ -1,7 +1,7 @@
 ---
 ---
 
-# DagilisLabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Dagilis Lab Website
 
 
 
@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Dagilis Lab at the University of Connecticut investigates how genetic interactions impact evolution at a variety of levels, with a focus on speciation, hybridization and the evolution of genome structure as a whole.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab is currently working on projects investigating population genetics of pathogenic fungi, the co-evolution of genes across many different species groups as well as the co-introgression of genes within species. See our projects and tools here.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The Dagilis Lab members have a wide range of interests, and we are always looking for more graduate students and postdocs.
 
 {%
   include button.html
