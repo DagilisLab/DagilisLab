@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Dagilis Lab is always looking for collaborators and trainees at various stages. If you are interested in joining the lab, email adagilis[at]uconn.edu with your CV as well as what projects in the lab you find most exciting.
 
 {% include section.html %}
 
