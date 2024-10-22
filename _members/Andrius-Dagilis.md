@@ -1,14 +1,16 @@
 ---
-name: Jane Smith
+name: Andrius J. Dagilis
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Connecticut
 aliases:
-  - J. Smith
-  - J Smith
+  - Andrius Dagilis
+  - Andrius J Dagilis
+  - A Dagilis
+  - A J Dagilis
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://adagilis.github.io
+  orcid: 0000-0003-2013-0825
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
