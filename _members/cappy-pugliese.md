@@ -1,11 +1,13 @@
 ---
 name: Cappy Pugliese
 image: images/cappy-pugliese.jpeg
-role: ms
+role: phd
 group: alum
 links:
   github: https://github.com/cappy-pugliese
+  linkedin: https://www.linkedin.com/in/cappy-pugliese-a0489524b/
+  inaturalist: https://www.inaturalist.org/people/c_pugliese
   
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
