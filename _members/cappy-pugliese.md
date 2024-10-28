@@ -1,7 +1,7 @@
 ---
 name: Cappy Pugliese
 image: images/cappy-pugliese.jpeg
-role: phd
+role: masters
 group: alum
 links:
   github: https://github.com/cappy-pugliese
