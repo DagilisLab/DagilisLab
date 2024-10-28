@@ -1,4 +1,4 @@
-d---
+---
 name: Kenneth Nguyen 
 image: images/kenneths photo
 role: undergrad
