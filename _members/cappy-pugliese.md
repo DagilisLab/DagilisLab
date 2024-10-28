@@ -1,6 +1,6 @@
 ---
 name: Cappy Pugliese
-image: images/photo.jpg
+image: images/cappy-pugliese.jpeg
 role: ms
 group: alum
 links:
