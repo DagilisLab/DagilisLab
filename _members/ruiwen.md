@@ -1,7 +1,7 @@
 ---
 name: Ruiwen Lin
 image: images/photo.jpg
-role: Undergradute Student
+role: Undergrad
 group: alum
 links:
   github: rlin
