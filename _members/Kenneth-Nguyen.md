@@ -1,6 +1,6 @@
 ---
 name: Kenneth Nguyen 
-image: images/kenneths photo
+image: images/IMG_7743.JPG
 role: undergrad
 group: University of Connecticut
 ---
