@@ -4,7 +4,7 @@ image:
 role: undergrad
 group: 
 links:
-  github: https://github/bldiangelis
+  github: https://github.com/bldiangelis
   
 ---
 
