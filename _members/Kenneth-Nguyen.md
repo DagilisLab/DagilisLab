@@ -1,7 +1,7 @@
----
+d---
 name: Kenneth Nguyen 
-image: images/photo.jpg
-role: Undergraduate Researcher
+image: images/kenneths photo
+role: undergrad
 group: University of Connecticut
 ---
 
