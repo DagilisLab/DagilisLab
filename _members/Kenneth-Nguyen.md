@@ -1,10 +1,8 @@
 ---
-name: John Doe
+name: Kenneth Nguyen 
 image: images/photo.jpg
-role: phd
-group: alum
-links:
-  github: john-doe
+role: Undergraduate Researcher
+group: University of Connecticut
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Kenneth Nguyen is an Honors Biological Sciences student.......
