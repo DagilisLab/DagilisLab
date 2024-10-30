@@ -1,6 +1,6 @@
 ---
 name: Bonnie DiAngelis
-image:
+image: images/bonnie_photo.jpg
 role: undergrad
 group: 
 links:
