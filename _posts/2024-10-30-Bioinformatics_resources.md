@@ -41,6 +41,9 @@ tags:
 -   [rmarkdown cheatsheet](https://rstudio.github.io/cheatsheets/rmarkdown.pdf)
 
 ### Troubleshooting
-- google is your best friend!
-- chances are someone has already had a similar problem and it has already been solved by someone else
-  - stack overflow is also your best friend
+
+-   google is your best friend!
+-   chances are someone has already had a similar problem and it has already been solved by someone else
+    -   stack overflow is also your best friend
+
+![image of cat staring at computer code](../images/cat-troubleshooting-meme.jpeg)
