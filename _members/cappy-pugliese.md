@@ -4,8 +4,8 @@ image: images/cappy-pugliese.jpeg
 role: masters
 group: alum
 links:
-  github: https://github.com/cappy-pugliese
-  linkedin: https://www.linkedin.com/in/cappy-pugliese-a0489524b/
+  github: cappy-pugliese
+  linkedin: cappy-pugliese-a0489524b/
   website:
   
 ---
