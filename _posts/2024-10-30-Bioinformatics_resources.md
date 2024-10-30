@@ -39,3 +39,8 @@ tags:
 -   [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 -   [rmarkdown cheatsheet](https://rstudio.github.io/cheatsheets/rmarkdown.pdf)
+
+### Troubleshooting
+- google is your best friend!
+- chances are someone has already had a similar problem and it has already been solved by someone else
+  - stack overflow is also your best friend
