@@ -46,4 +46,4 @@ tags:
 -   chances are someone has already had a similar problem and it has already been solved by someone else
     -   stack overflow is also your best friend
 
-![image of cat staring at computer code](~/images/cat-troubleshooting-meme.jpeg)
+![image of cat staring at computer code](../images/cat-troubleshooting-meme.jpeg)
