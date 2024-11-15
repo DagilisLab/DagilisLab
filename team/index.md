@@ -12,7 +12,9 @@ The Dagilis Lab is always looking for collaborators and trainees at various stag
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+{% include list.html data="members" component="portrait" filters="role: undergraduate" %}
+{% include list.html data="members" component="portrait" filters="role: mascot" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
