@@ -1,6 +1,6 @@
 ---
 name: Andrius J. Dagilis
-image: images/photo.jpg
+image: images/andrius_image.jpg
 role: pi
 affiliation: University of Connecticut
 aliases:
@@ -26,7 +26,7 @@ Links for any public materials for the courses are available in the Projects tab
 
 _Outside of work_
 
-Outside of the classroom, I love to run, hike, brew beer and play board games.
+Outside of the classroom, I love to run, hike, brew beer and play board games. 
 
 _Fun facts_
 
