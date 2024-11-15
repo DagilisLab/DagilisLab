@@ -13,7 +13,7 @@ Here you can find a list of lab publications, but since it relies on citationbot
 
 ## Highlighted
 
-{% include citation.html lookup="Fitness of introgressing haplotype" style="rich" %}
+{% include citation.html lookup="fitness of an introgressing haplotype" style="rich" %}
 
 {% include section.html %}
 
