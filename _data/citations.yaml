@@ -1,5 +1,187 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/genetics/iyae155
+  title: Admixture in the fungal pathogen <i>Blastomyces</i>
+  authors:
+  - Gaston I Jofre
+  - Andrius J Dagilis
+  - "Victoria E Sep\xFAlveda"
+  - Tayte Anspach
+  - Ashutosh Singh
+  - Anuradha Chowdhary
+  - Daniel R Matute
+  publisher: GENETICS
+  date: '2024-09-24'
+  link: https://doi.org/g8q8t6
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3002185
+  title: The fitness of an introgressing haplotype changes over the course of divergence
+    and depends on its size and genomic location
+  authors:
+  - Andrius J. Dagilis
+  - Daniel R. Matute
+  publisher: PLOS Biology
+  date: '2023-07-17'
+  link: https://doi.org/g8q8t7
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/molbev/msac223
+  title: Patterns of Population Structure and Introgression Among Recently Differentiated
+    <i>Drosophila melanogaster</i> Populations
+  authors:
+  - Jenn M Coughlan
+  - Andrius J Dagilis
+  - Antonio Serrato-Capuchina
+  - Hope Elias
+  - David Peede
+  - Kristin Isbell
+  - Dean M Castillo
+  - Brandon S Cooper
+  - Daniel R Matute
+  publisher: Molecular Biology and Evolution
+  date: '2022-10-17'
+  link: https://doi.org/g8q8t8
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.09.27.507129
+  title: The fitness of an introgressing haplotype
+  authors:
+  - Andrius J. Dagilis
+  - Daniel R. Matute
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-28'
+  link: https://doi.org/g8q8t9
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.16546
+  title: What inversion lengths can tell us about their evolution
+  authors:
+  - Andrius J. Dagilis
+  publisher: Molecular Ecology
+  date: '2022-06-08'
+  link: https://doi.org/g8q8vb
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.15.448399
+  title: '15 years of introgression studies: quantifying gene flow across Eukaryotes'
+  authors:
+  - Andrius J. Dagilis
+  - David Peede
+  - Jenn M. Coughlan
+  - Gaston I. Jofre
+  - "Emmanuel R. R. D\u2019Agostino"
+  - Heidi Mavengere
+  - Alexander D. Tate
+  - Daniel R. Matute
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-16'
+  link: https://doi.org/g8q8vc
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1008125
+  title: The evolution of hybrid fitness during speciation
+  authors:
+  - Andrius J. Dagilis
+  - Mark Kirkpatrick
+  - Daniel I. Bolnick
+  publisher: PLOS Genetics
+  date: '2019-05-06'
+  link: https://doi.org/ghm7pz
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1534/g3.118.200166
+  title: Sex Differences in Recombination in Sticklebacks
+  authors:
+  - Jason M Sardell
+  - Changde Cheng
+  - Andrius J Dagilis
+  - Asano Ishikawa
+  - Jun Kitano
+  - Catherine L Peichel
+  - Mark Kirkpatrick
+  publisher: G3 Genes|Genomes|Genetics
+  date: '2018-06-01'
+  link: https://doi.org/gjn2wm
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.aao1729
+  title: Systematic analysis of complex genetic interactions
+  authors:
+  - Elena Kuzmin
+  - Benjamin VanderSluis
+  - Wen Wang
+  - Guihong Tan
+  - Raamesh Deshpande
+  - Yiqun Chen
+  - Matej Usaj
+  - Attila Balint
+  - Mojca Mattiazzi Usaj
+  - Jolanda van Leeuwen
+  - Elizabeth N. Koch
+  - Carles Pons
+  - Andrius J. Dagilis
+  - Michael Pryszlak
+  - Jason Zi Yang Wang
+  - Julia Hanchard
+  - Margot Riggi
+  - Kaicong Xu
+  - Hamed Heydari
+  - Bryan-Joseph San Luis
+  - Ermira Shuteriqi
+  - Hongwei Zhu
+  - Nydia Van Dyk
+  - Sara Sharifpoor
+  - Michael Costanzo
+  - Robbie Loewith
+  - Amy Caudy
+  - Daniel Bolnick
+  - Grant W. Brown
+  - Brenda J. Andrews
+  - Charles Boone
+  - Chad L. Myers
+  publisher: Science
+  date: '2018-04-20'
+  link: https://doi.org/gdfxtg
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/evo.12954
+  title: Prezygotic isolation, mating preferences, and the evolution of chromosomal
+    inversions
+  authors:
+  - Andrius J. Dagilis
+  - Mark Kirkpatrick
+  publisher: Evolution
+  date: '2016-05-30'
+  link: https://doi.org/f8v75m
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.mbs.2012.03.006
+  title: "A stochastic model for the development of Bateson\u2013Dobzhansky\u2013\
+    Muller incompatibilities that incorporates protein interaction networks"
+  authors:
+  - Kevin Livingstone
+  - Peter Olofsson
+  - Garner Cochran
+  - Andrius Dagilis
+  - Karen MacPherson
+  - Kerry A. Seitz
+  publisher: Mathematical Biosciences
+  date: '2012-07-01'
+  link: https://doi.org/f3zm2m
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmc:PMC10374083
   title: The fitness of an introgressing haplotype changes over the course of divergence
     and depends on its size and genomic location
