@@ -34,7 +34,7 @@ The Dagilis Lab at the University of Connecticut investigates how genetic intera
 
 {% capture text %}
 
-The lab is currently working on projects investigating population genetics of pathogenic fungi, the co-evolution of genes across many different species groups as well as the co-introgression of genes within species. See our projects and tools here.
+The lab is currently working on projects investigating population genetics of pathogenic fungi, the co-evolution of genes across many different species groups as well as the co-introgression of genes within species. We embrace open science and try to make any of our datasets/analyses as useful for others as possible. See our projects page for links to those projects.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ The lab is currently working on projects investigating population genetics of pa
 
 {% capture text %}
 
-The Dagilis Lab members have a wide range of interests, and we are always looking for more graduate students and postdocs.
+The Dagilis Lab members have a wide range of interests, and we are always looking for more graduate students and postdocs. Our goal is to have a team with diverse talents, interests and backgrounds.
 
 {%
   include button.html
@@ -72,10 +72,3 @@ The Dagilis Lab members have a wide range of interests, and we are always lookin
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
