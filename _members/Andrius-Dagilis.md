@@ -1,6 +1,6 @@
 ---
 name: Andrius J. Dagilis
-image: images/andrius_image.jpg
+image: images/people/andrius_image.jpg
 role: pi
 affiliation: University of Connecticut
 aliases:

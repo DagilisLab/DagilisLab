@@ -1,6 +1,6 @@
 ---
 name: Luna June
-image: images/Luna.jpg
+image: images/people/Luna.jpg
 role: mascot
 affiliation: Only herself
 ---

@@ -1,6 +1,6 @@
 ---
 name: Cappy Pugliese
-image: images/cappy-pugliese.jpeg
+image: images/people/cappy-pugliese.jpeg
 role: masters
 group: alum
 links:

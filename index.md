@@ -59,7 +59,7 @@ The lab is currently working on projects investigating population genetics of pa
 
 {% capture text %}
 
-The Dagilis Lab members have a wide range of interests, and we are always looking for more graduate students and postdocs. Our goal is to have a team with diverse talents, interests and backgrounds.
+The Dagilis Lab members have a wide range of interests, and we are always looking for more graduate students and postdocs. Our goal is to have a team with diverse talents, interests and
 
 {%
   include button.html
@@ -72,3 +72,10 @@ The Dagilis Lab members have a wide range of interests, and we are always lookin
 
 {% endcapture %}
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
