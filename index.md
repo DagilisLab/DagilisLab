@@ -26,7 +26,7 @@ The Dagilis Lab at the University of Connecticut investigates how genetic intera
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/illustrations/math_models.PNG"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ The lab is currently working on projects investigating population genetics of pa
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/illustrations/data.png"
   link="projects"
   title="Our Projects"
   flip=true
