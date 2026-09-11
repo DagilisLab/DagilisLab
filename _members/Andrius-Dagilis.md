@@ -1,7 +1,7 @@
 ---
 name: Andrius J. Dagilis
 image: images/people/andrius_image.jpg
-role: principal-investigator
+role: pi
 affiliation: University of Connecticut
 aliases:
   - Andrius Dagilis
