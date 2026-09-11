@@ -61,7 +61,12 @@ def main(entry):
             # "arxiv",
             # "url",
         ]
-        return index_of(types, id_type)
+        try:
+            return types.index(id_type)
+        except ValueError:
+            # If the id_type isn't in our preferred list, return a high number 
+            # so it gets sorted to the end.
+            return len(types)
 
     # go through each source
     for work in response:
