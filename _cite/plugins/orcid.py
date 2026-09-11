@@ -61,7 +61,7 @@ def main(entry):
             # "arxiv",
             # "url",
         ]
-        return index_of(types, id_type)
+        return index(types, id_type)
 
     # go through each source
     for work in response:
