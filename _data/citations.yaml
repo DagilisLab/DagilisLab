@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.05.21.726714
+  title: "Evolutionary rate correlations reveal long-term co-evolutionary interactions\
+    \ in\n                  <i>Drosophila melanogaster</i>"
+  authors:
+  - Andrius J. Dagilis
+  - Selina Lee
+  - Bonnie DiAngelis
+  - Daniel R. Matute
+  publisher: openRxiv
+  date: '2026-05-23'
+  link: https://doi.org/hcjbs5
+  orcid: 0000-0003-2013-0825
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/genetics/iyae155
   title: Admixture in the fungal pathogen <i>Blastomyces</i>
   authors:
@@ -52,7 +66,7 @@
   authors:
   - Andrius J. Dagilis
   - Daniel R. Matute
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-09-28'
   link: https://doi.org/g8q8t9
   orcid: 0000-0003-2013-0825
@@ -79,7 +93,7 @@
   - Heidi Mavengere
   - Alexander D. Tate
   - Daniel R. Matute
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-16'
   link: https://doi.org/g8q8vc
   orcid: 0000-0003-2013-0825
