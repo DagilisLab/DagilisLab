@@ -1,5 +1,5 @@
 ---
-name: Chris deRoux
+name: Chris deRoux (any/all)
 image: images/people/cappy-pugliese.jpeg
 role: PhD
 links:
