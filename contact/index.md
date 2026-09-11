@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Have questions? Want ot join the lab? Reach out!
+Have questions? Want to join the lab? Reach out!
 
 {%
   include button.html
