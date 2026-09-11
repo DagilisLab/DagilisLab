@@ -1,6 +1,6 @@
 ---
 name: Selina Lee
-image: 
+image: images/people/Selina_photo.jpg
 role: undergraduate
 group: alum  
 ---
