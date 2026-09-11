@@ -17,9 +17,9 @@ The Dagilis Lab is always looking for collaborators and trainees at various stag
 
 # Students
 
-{% include list.html data="members" component="portrait" filter="role:phd" %}
-{% include list.html data="members" component="portrait" filter="role:masters" %}
-{% include list.html data="members" component="portrait" filter="role:undergrad" %}
+{% include list.html data="members" component="portrait" filter="role:phd && group:current" %}
+{% include list.html data="members" component="portrait" filter="role:masters && group:current" %}
+{% include list.html data="members" component="portrait" filter="role:undergrad && group:current" %}
 
 # Former members
 

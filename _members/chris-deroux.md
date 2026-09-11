@@ -2,6 +2,7 @@
 name: Chris deRoux (any/all)
 image: 
 role: phd
+group: current
 links:
   github: cderoux
   
