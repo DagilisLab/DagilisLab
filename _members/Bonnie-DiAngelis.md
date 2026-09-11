@@ -2,7 +2,7 @@
 name: Bonnie DiAngelis
 image: images/people/bonnie_photo.jpg
 role: undergrad
-group: 
+group: alum
 links:
   linkedin: www.linkedin.com/in/bonnie-diangelis-2316b9257
   
