@@ -30,6 +30,10 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+alum:
+  icon: fa-solid fa-bird
+  description: Former member
+
 # general
 
 link:

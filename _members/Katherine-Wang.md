@@ -1,7 +1,7 @@
 ---
 name: Katherine Wang
 image: images/people/katherine-wang.jpg
-role: undergraduate
+role: undergrad
 links:
   github: Katring07
   

@@ -1,7 +1,7 @@
 ---
 name: Chris deRoux (any/all)
-image: images/people/cappy-pugliese.jpeg
-role: PhD
+image: 
+role: phd
 links:
   github: cderoux
   
