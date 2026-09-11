@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Here you can find some posts by lab members on useful lab resources or paper discussion we've had in the lab. 
+Here you can find some posts by lab members on useful lab resources or paper discussion we've had in the lab. Activity here depends entirely on students in the lab.
 
 {% include section.html %}
 
