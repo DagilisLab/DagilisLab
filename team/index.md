@@ -16,16 +16,5 @@ The Dagilis Lab is always looking for collaborators and trainees at various stag
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Outside of the lab, we try to be somewhat social and enjoy the nature around Storrs. 
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}
