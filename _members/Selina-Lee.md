@@ -1,6 +1,6 @@
 ---
 name: Selina Lee
-image: images/people/cappy-pugliese.jpeg
+image: 
 role: undergraduate
 group: alum  
 ---
