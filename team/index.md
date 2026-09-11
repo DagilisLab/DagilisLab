@@ -13,7 +13,7 @@ The Dagilis Lab is always looking for collaborators and trainees at various stag
 
 # PI
 
-{% include list.html data="members" component="portrait" filter="role:principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="role:principal-investigator" %}
 
 # Students
 
