@@ -20,13 +20,13 @@ See my CV for a more extensive biography.
 
 _Teaching_
 
-At UConn, I have been teaching EEB 2254W, Evolutionary Biology (EEB 2245) and Population Genetics (EEB 5). 
+At UConn, I have been teaching EEB 2254W, Evolutionary Biology (EEB 2245) and Population Genetics (EEB 5348). 
 
 Links for any public materials for the courses are available in the Projects tab.
 
 _Outside of work_
 
-Outside of the classroom, I love to run, hike, brew beer and play board games. 
+Outside of the classroom, I love to remove invasive species, run, hike, brew beer and play board games. 
 
 _Fun facts_
 
