@@ -30,9 +30,17 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
-alum:
-  icon: fa-solid fa-bird
-  description: Former member
+alum_phd:
+  icon: fa-solid fa-graduation-cap
+  description: Former PhD student
+
+alum_masters:
+  icon: fa-solid fa-graduation-cap
+  description: Former Masters student
+
+alum_undergrad:
+  icon: fa-solid fa-graduation-cap
+  description: Former undergrad
 
 # general
 
