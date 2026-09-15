@@ -1,7 +1,7 @@
 ---
 name: Kenneth Nguyen 
 image: images/people/IMG_7743.JPG
-role: undergrad
+role: alum_undergrad
 group: alum
 ---
 
